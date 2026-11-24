@@ -1,0 +1,14 @@
+{
+  "event_id": "attachment-expansion-001",
+  "attachment_id": "EXPANSION-MAP-001",
+  "site_id": "S1",
+  "kind": "boundary_map",
+  "revision": 2,
+  "site_revision": 2,
+  "valid_from": "2026-08-01",
+  "area_m2": 22000,
+  "filename": "expansion-boundary.pdf",
+  "uri": "portal://attachments/EXPANSION-MAP-001",
+  "sha256": "example-sha256-replace-with-real-hash",
+  "change_summary": "二号厂房扩建，统计边界增加 4000 平方米"
+}

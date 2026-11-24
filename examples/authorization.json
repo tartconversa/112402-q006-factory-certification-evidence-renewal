@@ -1,0 +1,10 @@
+{
+  "event_id": "auth-verification-001",
+  "certificate_id": "CERT-CERT-001",
+  "certificate_no": "CERT-001",
+  "authorization_id": "AUTH-001",
+  "status": "verified",
+  "authorized": true,
+  "checked_at": "2026-09-01T10:00:00+00:00",
+  "response_reference": "verify-2026-09-01-001"
+}

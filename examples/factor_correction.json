@@ -1,0 +1,12 @@
+{
+  "event_id": "factor-correction-001",
+  "factor_id": "grid_electricity",
+  "version": 2,
+  "value": "0.5810",
+  "unit": "kgCO2e/kWh",
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "source_url": "https://factors.example.gov/grid_electricity/2026-correction",
+  "correction_reason": "公开因子页面发布更正值",
+  "corrects_version": 1
+}

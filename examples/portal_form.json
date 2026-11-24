@@ -1,0 +1,20 @@
+{
+  "event_id": "portal-demo-001",
+  "submission_id": "FORM-DEMO-001",
+  "site_id": "S1",
+  "company": "合成绿色制造有限公司",
+  "boundary": {
+    "revision": 1,
+    "valid_from": "2026-01-01",
+    "area_m2": 18000
+  },
+  "products": ["P1", "P2"],
+  "period": "2026-H1",
+  "metrics": [
+    {"code": "electricity", "value": 410000, "unit": "kWh"},
+    {"code": "water_consumption", "value": 12000, "unit": "m3"},
+    {"code": "waste_to_landfill", "value": 120, "unit": "t"},
+    {"code": "waste_recycled", "value": 300, "unit": "t"},
+    {"code": "equipment_modification", "observation": "变频电机与照明改造验收单 EQ-1"}
+  ]
+}

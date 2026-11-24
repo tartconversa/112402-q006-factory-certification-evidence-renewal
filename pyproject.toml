@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "green-review"
+version = "1.0.0"
+description = "绿色制造申报证据采集、版本管理与复审草案应用（仅标准库）"
+requires-python = ">=3.10"
+
+[project.scripts]
+green-review = "green_review.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["green_review*"]
+
+[tool.unittest]
+start-dir = "tests"

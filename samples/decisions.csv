@@ -1,0 +1,4 @@
+decision,site,period,result,site_revision,evidence_refs,state
+D1,S1,2026-H1,pass,1,E1|E3,issued
+D2,S1,2026-H2,pending,2,E2,review
+D3,S2,2026-H1,review,1,,draft

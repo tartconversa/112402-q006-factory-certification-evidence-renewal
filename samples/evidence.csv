@@ -1,0 +1,4 @@
+evidence,site,kind,value,unit,from,to,revision
+E1,S1,electricity,410000,kWh,2026-01-01,2026-06-30,1
+E2,S1,electricity,290000,kWh,2026-07-01,2026-12-31,1
+E3,S1,audit,,certificate,2025-01-01,2026-07-31,1
